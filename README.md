@@ -6,6 +6,14 @@ using an **ESP32**, **NTC thermistor**, and **relay-based time proportional cont
 This project focuses on applying **control theory in a non-ideal, noisy, real hardware environment**.
 This project was built and tuned on real hardware — no simulation-only assumptions.
 
+## 📌 Quick Access
+
+- 🔧 **Firmware (ESP32 Code)**  
+  👉 [View main firmware source](./firmware/pid_soldering_iron.ino)
+
+- 📄 **Project Documentation**  
+  👉 [View detailed documentation](./docs/PID_Soldering_Iron_Report.pdf)
+
 ## 🚀 Project Overview
 
 - **Controller:** ESP32  
