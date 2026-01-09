@@ -5,6 +5,9 @@ testing, and validation of the PID-controlled soldering iron project.
 The documents here go beyond final results and focus on the reasoning,
 experiments, and learning that occurred while working with real hardware.
 
+📘 **Full Technical Report**  
+👉 [Open full technical report](./PID_Soldering_Iron_Report.pdf)
+
 ## 📘 PID_Soldering_Iron_Report.pdf
 
 This report documents the complete technical journey of building a
